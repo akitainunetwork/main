@@ -766,7 +766,7 @@ function WaddToallet() {
                     'address': '0xd5c12AcBee26580eEFD3e8227aa5d576Cd7F3Bb8',
                     'symbol': 'AKITA',
                     'decimals': '18',
-                    'image': 'https://dogakita.com/images/logo.png',
+                    'image': 'https://dogakita.com/images/logo2.png',
                 },
             },
             id: Math.round(Math.random() * 100000)
